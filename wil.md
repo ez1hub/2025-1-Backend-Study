@@ -168,7 +168,7 @@ REST API를 잘 작성하기 위해서 규정해놓은 가이드라인이 있다
 
 ---
 - GDGoC Weekly I Learned 검사용
-![alt text](image.png)
+![](https://velog.velcdn.com/images/tss9752/post/5f1d4d25-29ad-44e6-bc08-1daf7ca19fbd/image.png)
 
 1. 유저 회원가입 / 로그인
 + 회원가입 : POST /register
